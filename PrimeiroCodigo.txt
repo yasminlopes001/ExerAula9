@@ -1,2 +1,3 @@
 Primeira linha de comando da branch staging
 Segunda linha de comando
+alterando o arquivo
